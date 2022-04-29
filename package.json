@@ -18,6 +18,6 @@
     "static-expiry": ">=0.0.5",
     "jugglingdb-sqlite3": "0.0.5",
     "urijs": "1.18.1",
-    "async": "2.0.1"
+    "async": "2.6.4"
   }
 }
